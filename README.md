@@ -219,7 +219,7 @@ Add your screenshots in a folder named `screenshots` and include them here:
 
 ## Author
 
-**Navaneetha**
+**Aparna**
 
 ## License
 
